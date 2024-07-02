@@ -5,6 +5,5 @@ setup(name = 'hw09-booklover',
       description = 'A package for book lovers to add their books to a read list',
       url = 'https://github.com/leek10/hw09-booklover',
       author = 'Kayla Lee',
-      author_email = 'kl2jmx@virginia.edu'
       license = 'MIT',
       packages = ['bookloverpackage'])
